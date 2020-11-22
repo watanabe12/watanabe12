@@ -7,28 +7,31 @@
 
 ## 言語
 
-PHP | Node.js | Java | JavaScript | VBScript | HTML | CSS | Google App Script | ShellScript
+PHP | Node.js | Java | JavaScript | VBScript | HTML | CSS | Google App Script | ShellScript |
 
 ## フレームワーク等
-Laravel | Express | strut2 | Vue.js | Sass | Bootstrap | Webpack
+Laravel | Express | strut2 | Vue.js | Sass | Bootstrap | Webpack |
 
 ## クラウド
 
 ### AWS
 
-EC2 | IAM | S3 | RDS | VPC | Rote53 | ACM | CloundFront | ELB
+EC2 | IAM | S3 | RDS | VPC | Rote53 | ACM | CloundFront | ELB |
 
 ## サーバー
 
+### Linux
+
+CentOS | Ubuntu |
+
 ### DB
 
-MySQL | PostgreSQL
+MySQL | PostgreSQL |
 
 ### Web
 
-nginx | Apache
+nginx | Apache |
 
 ## etc
 
-Docker | CircleCI | Linux(CentOS, Ubuntu)| vagrant | Gulp 
-Photoshop | Illustrator | XD | WinActor | raspberry pi
+Docker | CircleCI | Photoshop | Illustrator | XD | WinActor | vagrant | raspberry pi | Gulp |
