@@ -5,11 +5,11 @@
 
 # Skills
 
-##言語
+## 言語
 
 PHP | Node.js | Java | JavaScript | VBScript | HTML | CSS | Google App Script | ShellScript
 
-##フレームワーク等
+## フレームワーク等
 Laravel | Express | strut2 | Vue.js | Sass | Bootstrap | Webpack
 
 ## クラウド
