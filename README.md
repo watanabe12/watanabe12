@@ -5,9 +5,24 @@
 
 # Skills
 
-■言語 / MW etc
+##言語
 
-PHP(Laravel)、Node.js(Express)、Java(strut2)、JavaScript(Vue.js)、VBScript、Google App Script
-AWS(EC2, IAM, S3, RDS, VPC, Rote53, ACM, CloundFront, ELB) 、HTML、CSS(Sass,Bootstrap)
-Docker、CircleCI、Linux(CentOS, Ubuntu)、Web(nginx、Apache)、DB(MySQL, PostgreSQL)
-Photoshop、Illustrator、XD、git、vagrant、WinActor、ShellScript、raspberry pi
+PHP | Node.js | Java | JavaScript | VBScript | HTML | CSS | Google App Script | ShellScript
+
+##フレームワーク等
+Laravel | Express | strut2 | Vue.js | Sass | Bootstrap | Webpack
+
+## クラウド
+
+### AWS
+
+EC2 | IAM | S3 | RDS | VPC | Rote53 | ACM | CloundFront | ELB
+
+## RDB
+
+MySQL | PostgreSQL
+
+## etc
+
+Docker | CircleCI | Linux(CentOS, Ubuntu) | Web(nginx、Apache)
+Photoshop | Illustrator | XD | vagrant | WinActor | raspberry pi | Gulp 
