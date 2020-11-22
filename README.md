@@ -6,6 +6,7 @@
 # Skills
 
 ■言語 / MW etc
+
 PHP(Laravel)、Node.js(Express)、Java(strut2)、JavaScript(Vue.js)、VBScript、Google App Script
 AWS(EC2, IAM, S3, RDS, VPC, Rote53, ACM, CloundFront, ELB) 、HTML、CSS(Sass,Bootstrap)
 Docker、CircleCI、Linux(CentOS, Ubuntu)、Web(nginx、Apache)、DB(MySQL, PostgreSQL)
