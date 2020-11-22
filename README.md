@@ -18,19 +18,9 @@ Laravel | Express | strut2 | Vue.js | Sass | Bootstrap | Webpack |
 
 EC2 | IAM | S3 | RDS | VPC | Rote53 | ACM | CloundFront | ELB |
 
-## サーバー
+## OS サーバー 
 
-### Linux
-
-CentOS | Ubuntu |
-
-### DB
-
-MySQL | PostgreSQL |
-
-### Web
-
-nginx | Apache |
+【Linux】 CentOS | Ubuntu | 【DB】 MySQL | PostgreSQL | 【AP】 | Tomcat | 【Web】 nginx | Apache |
 
 ## etc
 
