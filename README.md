@@ -18,11 +18,17 @@ Laravel | Express | strut2 | Vue.js | Sass | Bootstrap | Webpack
 
 EC2 | IAM | S3 | RDS | VPC | Rote53 | ACM | CloundFront | ELB
 
-## RDB
+## サーバー
+
+### DB
 
 MySQL | PostgreSQL
 
+### Web
+
+nginx | Apache
+
 ## etc
 
-Docker | CircleCI | Linux(CentOS, Ubuntu) | Web(nginx、Apache)
-Photoshop | Illustrator | XD | vagrant | WinActor | raspberry pi | Gulp 
+Docker | CircleCI | Linux(CentOS, Ubuntu)| vagrant | Gulp 
+Photoshop | Illustrator | XD | WinActor | raspberry pi
